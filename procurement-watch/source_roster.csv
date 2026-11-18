@@ -1,0 +1,51 @@
+source_id,priority,lane,state,issuer,source_name,platform,url,check_cadence,login_required,commodity_scheme,last_checked,status_last_run,last_change_seen,added_date,added_reason,notes
+SRC-001,P1,direct,IL,Chicago Public Schools,CPS Bonfire open opportunities,Bonfire,https://cps.bonfirehub.com/portal/?tab=openOpportunities,daily,partial,CPS department categories,,,,2026-11-18,baseline roster,RFQ 26-1355 history
+SRC-002,P1,direct,IL,Chicago Public Schools,CPS Procurement page and sourcing plan,district site,https://www.cps.edu/about/departments/procurement/,daily,no,,,,,2026-11-18,baseline roster,
+SRC-003,P1,direct,IL,Chicago Public Schools,CPS Board of Education agendas and board reports,board site,https://www.cpsboe.org/meetings,weekly,no,,,,,2026-11-18,baseline roster,consent agenda backup PDFs
+SRC-004,P1,direct,IL,State of Illinois,BidBuy Illinois Procurement Bulletin,BidBuy,https://www.bidbuy.illinois.gov/,daily,partial,UNSPSC,,,,2026-11-18,baseline roster,
+SRC-005,P1,direct,IL,ISBE,ISBE procurement and RFSP page,state site,https://www.isbe.net/Pages/Request-for-Sealed-Proposals.aspx,weekly,no,,,,,2026-11-18,baseline roster,
+SRC-006,P1,direct,WI,Milwaukee Public Schools,MPS Procurement bids and RFPs,district site,https://mps.milwaukee.k12.wi.us/en/District/About-MPS/Departments/Office-of-Finance/Procurement-and-Risk-Management.htm,daily,no,,,,,2026-11-18,baseline roster,nonpublic Title services history
+SRC-007,P2,direct,WI,State of Wisconsin,VendorNet / Wisconsin DPI,VendorNet,https://vendornet.wi.gov/,weekly,partial,,,,,2026-11-18,baseline roster,
+SRC-008,P1,direct,MI,Michigan Department of Education,MDE grants NexSys / MDE RFPs,NexSys,https://www.michigan.gov/mde/services/financial-management/grants,weekly,yes,,,,,2026-11-18,baseline roster,
+SRC-009,P1,direct,MI,State of Michigan,SIGMA Vendor Self Service,SIGMA VSS,https://sigma.michigan.gov/webapp/PRDVSS2X1/AltSelfService,daily,partial,NIGP,,,,2026-11-18,baseline roster,
+SRC-010,P1,direct,MI,Detroit Public Schools Community District,DPSCD Procurement,district site,https://www.detroitk12.org/procurement,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-011,P1,direct,TX,State of Texas,ESBD Electronic State Business Daily,ESBD,https://www.txsmartbuy.gov/esbd,daily,no,NIGP,,,,2026-11-18,baseline roster,
+SRC-012,P1,direct,TX,Texas Education Agency,TEA Bonfire and procurement page,Bonfire,https://tea.bonfirehub.com/portal/?tab=openOpportunities,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-013,P1,direct,TX,Houston ISD,HISD IonWave,IonWave,https://houstonisd.ionwave.net/,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-014,P2,direct,TX,Dallas ISD,Dallas ISD Procurement,district site,https://www.dallasisd.org/procurement,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-015,P2,direct,TX,ESC Region 4,Region 4 ESC procurement and vendor pools,district site,https://www.esc4.net/,weekly,no,,,,,2026-11-18,baseline roster,
+SRC-016,P2,direct,TX,Choice Partners (Harris County DoE),Choice Partners open bids,coop,https://www.choicepartners.org/,weekly,no,,,,,2026-11-18,baseline roster,cooperative lane
+SRC-017,P2,direct,TX,TIPS-USA,TIPS open solicitations,coop,https://www.tips-usa.com/,weekly,no,,,,,2026-11-18,baseline roster,cooperative lane
+SRC-018,P1,direct,VA,Commonwealth of Virginia,eVA public postings,eVA,https://mvendor.cgieva.com/Vendor/public/,daily,no,NIGP,,,,2026-11-18,baseline roster,
+SRC-019,P1,direct,MD,State of Maryland,eMaryland Marketplace Advantage,eMMA,https://emma.maryland.gov/,daily,partial,NIGP,,,,2026-11-18,baseline roster,
+SRC-020,P1,direct,MD,Baltimore City Public Schools,City Schools procurement,district site,https://www.baltimorecityschools.org/procurement,daily,no,,,,,2026-11-18,baseline roster,
+SRC-021,P1,direct,PA,School District of Philadelphia,SDP Procurement,district site,https://www.philasd.org/procurement/,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-022,P2,direct,PA,Commonwealth of Pennsylvania,PA eMarketplace,eMarketplace,https://www.emarketplace.state.pa.us/,weekly,no,,,,,2026-11-18,baseline roster,
+SRC-023,P1,direct,NY,NYC Department of Education,NYC DOE procurement opportunities,infohub,https://infohub.nyced.org/working-with-the-doe/vendors/procurement-opportunities,daily,no,,,,,2026-11-18,baseline roster,
+SRC-024,P1,direct,NY,City of New York,PASSPort public solicitations,PASSPort,https://passport.cityofnewyork.us/,daily,partial,NYC codes,,,,2026-11-18,baseline roster,
+SRC-025,P2,direct,NY,City of New York,City Record Online,CROL,https://a856-cityrecord.nyc.gov/,daily,no,,,,,2026-11-18,baseline roster,legal notice tier
+SRC-026,P1,direct,OH,Ohio Department of Education and Workforce,DEW procurement and grants,state site,https://education.ohio.gov/,weekly,no,,,,,2026-11-18,baseline roster,ReadOhio
+SRC-027,P2,direct,OH,Columbus City Schools,CCS Purchasing,district site,https://www.ccsoh.us/purchasing,daily,no,,,,,2026-11-18,baseline roster,
+SRC-028,P2,direct,OH,Cleveland Metropolitan School District,CMSD Procurement,district site,https://www.clevelandmetroschools.org/procurement,daily,no,,,,,2026-11-18,baseline roster,
+SRC-029,P1,direct,FL,Hillsborough County Public Schools,HCPS Procurement,district site,https://www.hillsboroughschools.org/procurement,daily,partial,,,,,2026-11-18,baseline roster,26111-RFP tutoring history
+SRC-030,P1,direct,FL,Miami-Dade County Public Schools,M-DCPS Procurement,district site,https://procurement.dadeschools.net/,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-031,P2,direct,FL,Broward County Public Schools,BCPS Procurement,district site,https://www.browardschools.com/procurement,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-032,P2,direct,FL,Orange County Public Schools,OCPS Procurement,district site,https://www.ocps.net/departments/procurement_services,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-033,P2,direct,FL,Duval County Public Schools,DCPS Purchasing,district site,https://dcps.duvalschools.org/purchasing,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-034,P2,direct,FL,Florida DOE,FDOE procurement and literacy grants,state site,https://www.fldoe.org/,weekly,no,,,,,2026-11-18,baseline roster,Just Read Florida; New Worlds Reading
+SRC-035,P2,direct,GA,Atlanta Public Schools,APS Procurement,district site,https://www.atlantapublicschools.us/procurement,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-036,P2,direct,TN,Memphis-Shelby County Schools,MSCS Procurement,district site,https://www.scsk12.org/procurement,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-037,P2,direct,LA,NOLA Public Schools,NOLA-PS Procurement,district site,https://nolapublicschools.com/,weekly,no,,,,,2026-11-18,baseline roster,
+SRC-038,P2,direct,CA,Los Angeles USD,LAUSD Procurement (RAMP),district site,https://achieve.lausd.net/procurement,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-039,P2,direct,NV,Clark County School District,CCSD Purchasing,district site,https://ccsd.net/departments/purchasing,daily,partial,,,,,2026-11-18,baseline roster,
+SRC-040,P2,direct,CO,Denver Public Schools,DPS Strategic Sourcing,district site,https://www.dpsk12.org/,weekly,partial,,,,,2026-11-18,baseline roster,
+SRC-041,P2,direct,DC,DC Office of Contracting and Procurement,OCP solicitations,state site,https://ocp.dc.gov/,daily,no,,,,,2026-11-18,baseline roster,DCPS; OSSE
+SRC-042,P2,direct,NJ,Newark Public Schools,NPS Purchasing,district site,https://www.nps.k12.nj.us/,weekly,no,,,,,2026-11-18,baseline roster,
+SRC-043,P2,direct,MA,Boston Public Schools,BPS / COMMBUYS,COMMBUYS,https://www.commbuys.com/,weekly,no,,,,,2026-11-18,baseline roster,
+SRC-044,P2,direct,US,Federal,SAM.gov,SAM.gov,https://sam.gov/,weekly,partial,NAICS,,,,2026-11-18,baseline roster,BIE DoDEA ED HHS
+SRC-045,P2,discovery,US,National,BidNet Direct,aggregator,https://www.bidnetdirect.com/,daily,partial,NIGP,,,,2026-11-18,baseline roster,discovery lead only
+SRC-046,P2,discovery,US,National,OpenGov Procurement public portals,aggregator,https://procurement.opengov.com/,daily,no,,,,,2026-11-18,baseline roster,discovery lead only
+SRC-047,P2,discovery,US,National,Bonfire public portals (site search),aggregator,https://www.google.com/search?q=site:bonfirehub.com,daily,no,,,,,2026-11-18,baseline roster,discovery lead only
+SRC-048,P2,discovery,US,National,DemandStar,aggregator,https://www.demandstar.com/,daily,partial,,,,,2026-11-18,baseline roster,discovery lead only
+SRC-049,P2,discovery,US,National,Sourcewell / OMNIA / BuyBoard open solicitations,coop,https://www.sourcewell-mn.gov/solicitations,weekly,no,,,,,2026-11-18,baseline roster,cooperative lane
+SRC-050,P2,forward,IL,Chicago area,Suburban district board agendas (D65 D97 U-46 D60 D99),BoardDocs,,weekly,no,,,,,2026-11-18,baseline roster,forward-signal lane
