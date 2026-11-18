@@ -32,3 +32,35 @@ English learners; multilingual learners; EL; ELL; ESL; bilingual; dual language;
 ## Buyer language added (append-only)
 | Date | Phrase | Where seen | Added by |
 |---|---|---|---|
+| 2026-11-18 | Screening, Diagnostic, and Progress Monitoring Assessment Tools | Region 9 REC / NMPED RFP 27008 | run 1 |
+| 2026-11-18 | Literacy Universal Screening ... Instructional Decision-Support System | Pittsburgh PS | run 1 |
+| 2026-11-18 | Virtual Year-Round Literacy Tutoring Program | Alameda USD | run 1 |
+| 2026-11-18 | Job-Embedded Literacy Coaching; Bilingual-ESL K-8 Job-Embedded Literacy Coaching | Elizabeth PS (NJ) | run 1 |
+| 2026-11-18 | Literacy Coaching, Training, and Development | Georgia Southern University | run 1 |
+| 2026-11-18 | Professional Development (Literacy 2-6) | Bound Brook SD (NJ) | run 1 |
+| 2026-11-18 | Early Literacy Professional Development | PlanetBids RFQ | run 1 |
+| 2026-11-18 | Early Literacy and Early Mathematics Tutoring Program | ELC Miami-Dade/Monroe | run 1 |
+| 2026-11-18 | High Impact Tutoring Grant Services; Statewide High Impact Tutoring for Reading and Math | NM PED | run 1 |
+| 2026-11-18 | After School Core Program Providers; Enrichment Program Providers; Expanded Learning Program Providers | CA ASES/ELO-P districts | run 1 |
+| 2026-11-18 | Title Services to Nonpublic Schools; Title I Services for Non-Public Schools; Instructional Services to Title I Eligible Private School Students; Non-Public School Service Provider Selection; Equitable Instructional Services; Outsourcing of Non-Public School Programs | Minneapolis; Orleans; PGCPS; Milwaukee; Polk; Philadelphia | run 1 |
+| 2026-11-18 | Multilingual Professional Development; Biliteracy Training and Coaching | Detroit PSCD; Passaic | run 1 |
+| 2026-11-18 | Professional Development, Speakers, and Consultants; Fall Contracted Professional Development Services | San Marcos CISD; RFP 149.26 | run 1 |
+| 2026-11-18 | Professional Learning for Adolescent Literacy; High Quality Professional Learning in Structured Literacy | ISBE; ALSDE | run 1 |
+| 2026-11-18 | Literacy Services; Literacy Intervention Tools; Reading Intervention Online Program | Pima County; Granite SD; TJJD | run 1 |
+| 2026-11-18 | K-5 Literacy: Core, Strategic & Assessment Resources | DoDEA | run 1 |
+| 2026-11-18 | Support HQIM Implementation via Communities of Practice | MA DESE | run 1 |
+| 2026-11-18 | Teacher Staffing Services for Educational Settings | CES (MA DYS) | run 1 |
+| 2026-11-18 | Instructional Vendor Library; Extended Open (multi-year open solicitation) | TN district; Frisco ISD | run 1 |
+| 2026-11-18 | Educational Service Providers; Literacy Center; Literacy & Dyslexia Learning Opportunities | LIFE Academy; NM PED; AZ ADE | run 1 |
+| 2026-11-18 | Virginia Literacy Act Implementation Training Services | Chesapeake (VA) | run 1 |
+| 2026-11-18 | Academic Educational Consultants and Professional Development Services; Contracted Educational Services; Instructional Catalog Discount Bid; Professional Consultant and Contracted Services | Arlington ISD; Cy-Fair ISD; ESC Region 7; ESC Region 18 | run 1 |
+| 2026-11-18 | Academic Enrichment and Support; Student Services, Enrichment, Tutorials, Mentoring | Dallas ISD; Houston ISD | run 1 |
+| 2026-11-18 | Instructional Capacity Building and Community of Practice Development; Integrated Model Curriculum | Wayne RESA; Ohio DEW | run 1 |
+| 2026-11-18 | Parent Access to Supplemental Supports (PASS); Ratio Waiver List | TEA | run 1 |
+
+## Search-term decay notes (run 1, 2026-11-18)
+- Most productive family: reading assessment / universal screener / dyslexia screener (Region 9, Pittsburgh, Laramie, Spokane, Boston RFI).
+- "high-dosage tutoring" now returns mostly 2025 documents; pair with "high-impact tutoring" and "tutoring services" and with issuer names.
+- Public library family returned pure noise (summer reading program pages); restrict to site:*.lib.*.us plus "RFP".
+- site:bonfirehub.com index is thin; Bonfire portals must be opened directly, not searched.
+- NJ districts dominate OpenGov; keep a weekly NJ OpenGov sweep.
