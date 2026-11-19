@@ -57,3 +57,23 @@ Ordered by what it unlocks. Each line: what to open, what to do there, what to b
 28. Friendship Public Charter School (DC): confirm issuer and submission method for the structured-literacy training RFP (questions due 11/20): https://www.friendshipschools.org
 29. Hamilton County Schools (TN): doe_purchasing@hcde.org for the vendor-library RFP number and time (due 12/10); register at https://vrapp.vendorregistry.com
 30. Minneapolis Public Schools: RFX@mpls.k12.mn.us to ask when the SY27 Title Services to Nonpublic Schools RFP will post (last year 11/20).
+
+## Added after run 3 (2026-11-19 evening)
+31. KIPP DC Quickbase RFP portal https://kippdc.quickbase.com/db/bjhewtd2d (sign-in): download the Role-Differentiated Structured Literacy Training RFP (questions due 11/20; proposals 11/30) and the ELA Book Supplier RFP (questions 11/30 to phuong.trinh@kippdc.org; proposals 12/4).
+32. Fulton County Schools Bonfire account: https://fultonschools.bonfirehub.com (143-27 Tutoring Services for Private Schools Phase 2, due 12/8; confirm close time and any pre-bid).
+33. Harris County Dept of Education IonWave registration: https://hcde.ionwave.net (27/006SG library materials due 12/10; 27/007SG curriculum/assessment due 1/15/2027; not shown on choicepartners.org).
+34. New Caney ISD IonWave: https://newcaneyisd.ionwave.net (RFP 149.26-2 PD pool, questions 12/2, due 12/9). Abilene ISD IonWave for #001 26-27 (due 12/4).
+35. Fort Worth ISD IonWave supplier registration: https://fwisd.ionwave.net (27-006 consultants/PD pool, due 1/29/2027).
+36. COMMBUYS: 27TALRJ1 K-3 Curriculum Development attachments and Q&A deadline (BD-27-1026-DOE02-DOE01-135338); 25MACISMB1 Addendum III.
+37. Detroit DemandStar registration: https://www.demandstar.com (27-0090 Summer Enrichment due 12/14; RFI-27-0009; 27-0061 award watch).
+38. PACE Academy (SC): call Dr. Melanie Vaughn 803-251-9138 to confirm the 11/30 close time (2:00 vs 4:00 PM ET).
+39. Lexington-Richland Five (SC): decide by 11/21 whether to submit a hard-copy sealed bid by 11/24 10:00 AM CT (on-site services only).
+40. ESC Region 7 vendor login: https://purchasing.esc7.net (Library Books & Supplies bid opens 4/5/2027; ICAT2628 award 12/10).
+41. Minneapolis Public Schools procurement page daily until the SY27 Title Services to Nonpublic Schools RFP posts: https://www.mpls.k12.mn.us/departments/finance/procurement (procurement@mpls.k12.mn.us).
+42. Milwaukee Bonfire https://mps.bonfirehub.com (watch for a 2027-28 nonpublic provider RFP; register before January 19 consultation).
+43. Texas: register The Intellectual Child LLC to do business in Texas and obtain a Texas Taxpayer Number if PASS is a target (one year serving Texas students required).
+44. PDE structured-literacy list application (MS Form https://forms.office.com/g/sCpsKsPN0m) before 3/31/2027.
+45. SAM.gov API key (api.sam.gov rejects DEMO_KEY) so the federal lane can run; or open HE125427RFI0001 in a browser.
+46. Idaho SDE contracting page in a browser (Cloudflare): https://sde.idaho.gov/contracting-opportunities
+47. Twin Rivers USD Colbi SecureBids (JS): https://colbisecurebids.com/agency/trusd ; Seattle Bid Locker; Tulsa Beacon Bid; Denver Bonfire (proxy 502).
+48. MCPS "2025 Jun 10 Approved RFP 4609.1" PDF for incumbent vendor names (award record 3067).

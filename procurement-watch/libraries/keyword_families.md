@@ -88,3 +88,27 @@ English learners; multilingual learners; EL; ELL; ESL; bilingual; dual language;
 - Direct portal fetches beat search: Bonfire portals expose JSON at /PublicPortal/getOpenPublicOpportunitiesSectionData (CPS, TEA); IonWave exposes SourcingEvents.aspx?e=... ; ISBE exposes SharePoint REST lists; ESBD is server-rendered per page; COMMBUYS bidDetail opens by bidId; BidNet public keyword search opens (issuer locked).
 - Searches for Bonfire content return zero; public library family returns noise; Head Start/ELC and EL-PD families returned nothing open; nonpublic family returned nothing new (direct district notices found it instead).
 - Most productive run-2 families: screener/assessment (Ohio RFQ, MI RFS), MTSS/coaching (Hempstead, Albany), ELO-P (CA cluster), Texas ESC pools.
+
+## Buyer language added (run 3, 2026-11-19)
+| Date | Phrase | Where seen | Added by |
+|---|---|---|---|
+| 2026-11-19 | vendor-neutral request for proposals; evidence-based structured-literacy instructional materials and decodable reading resources; explicit, systematic, cumulative, diagnostic, multisensory | PACE Academy (SC) | run 3 |
+| 2026-11-19 | Comprehensive Needs Assessment, approved reading plan (CSI-funded charter) | PACE Academy | run 3 |
+| 2026-11-19 | job-embedded coaching, classroom observation, consultation, and instructional support; all PD on-site, virtual not considered | Lexington-Richland Five | run 3 |
+| 2026-11-19 | Reading Foundational Skills (Scope A); Connected Learning (Scope B); Supplier Diversity Program Plan percentage | MA DESE 27TALRJ1 | run 3 |
+| 2026-11-19 | outcomes-based contracting (OBC); ratio not higher than four students to one tutor; Steve Carter Tutoring Provider | Louisiana DOE | run 3 |
+| 2026-11-19 | Tutoring Services for Private Schools, Phase 2 | Fulton County Schools | run 3 |
+| 2026-11-19 | Diagnostic Assessment and Tiered Intervention (MTSS/RTI) Program | Jackson PS (MS) | run 3 |
+| 2026-11-19 | Summer Student Enrichment Services; After School Enrichment Programming; Local Authors Panel Awarded Books | Detroit PSCD | run 3 |
+| 2026-11-19 | Educational Textbooks, Library Materials, Digital Publications and Instructional Resources; Curriculum, Instructional Programs, Assessment Materials and Related Items | HCDE / Choice Partners | run 3 |
+| 2026-11-19 | Multicultural Books for Students in Grades K-8 | York City SD | run 3 |
+| 2026-11-19 | Cultural Experiences, Literacy, and Arts Production Services | Dallas ISD | run 3 |
+| 2026-11-19 | Contracted Professional Development Services; Instructional Professional Development and Related Services | New Caney ISD; Abilene ISD | run 3 |
+| 2026-11-19 | Supplemental Instructional Services for Nonpublic Schools; Trade Books; AGO Partner Organizations | NYC DOE planning sheet | run 3 |
+| 2026-11-19 | Role-Differentiated Structured Literacy Training Development and Delivery; English Language Arts Book Supplier | KIPP DC | run 3 |
+| 2026-11-19 | Literacy/Dyslexia Endorsement Providers for Professional Learning (MPA) | RIDE | run 3 |
+| 2026-11-19 | Developing Decoders Collection (sole-source RFI) | DeSoto County (FL) | run 3 |
+
+## Search-term decay notes (run 3)
+- With the network open, fetch beats search decisively: 8 lanes used 51 searches total. Best machine-readable sources found: Bonfire PublicPortal JSON (CPS, TEA, MPS, Fulton, APS, Dallas, Austin, Fort Bend, SLPS, CCSD, Utah, Tacoma, Region One), IonWave SourcingEvents links (HISD, FWISD, Region 13/18/11, Allied States, New Caney), DemandStar agency API (Detroit), DPSCD contracts API, BoardDocs POST API, Legistar API (HISD), ISBE SharePoint REST, CPS Buying Plan CSV, NYC planning xlsx, Govly public search (de-locks BidNet), Starbridge buyer pages, SCBO online edition.
+- Dead or walled for automation: BidNet abstracts (login), VendorLink (login), Finalsite and Apptegy bot walls (Hillsborough, Duval, ELC Miami-Dade, Youngstown, KCPS, Hempstead, Humble), OpenGov portals (403), Ivalua (OhioBuys, eMMA), eVA Angular, PASSPort, Beacon Bid, Oracle supplier portals (Philadelphia, MNPS), Colbi SecureBids, Bid Locker, Quickbase (KIPP DC), Akamai/Cloudflare on fldoe, doe.virginia.gov, lausd, cde.ca.gov, azed, MSDE, education.mn.gov, aisd.net, TIPS, Equalis.
