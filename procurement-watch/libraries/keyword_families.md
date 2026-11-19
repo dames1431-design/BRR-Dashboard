@@ -64,3 +64,27 @@ English learners; multilingual learners; EL; ELL; ESL; bilingual; dual language;
 - Public library family returned pure noise (summer reading program pages); restrict to site:*.lib.*.us plus "RFP".
 - site:bonfirehub.com index is thin; Bonfire portals must be opened directly, not searched.
 - NJ districts dominate OpenGov; keep a weekly NJ OpenGov sweep.
+
+## Buyer language added (run 2, 2026-11-19)
+| Date | Phrase | Where seen | Added by |
+|---|---|---|---|
+| 2026-11-19 | comprehensive vendor library | Hamilton County Schools (TN) | run 2 |
+| 2026-11-19 | role-differentiated structured literacy training development and delivery | Friendship PCS (DC) | run 2 |
+| 2026-11-19 | Tier 1 Dyslexia Screener; High Quality Student Data (HQSD); File Share Request; Common RFQ | Ohio DEW | run 2 |
+| 2026-11-19 | Request for Submission (RFS); Tier 1 class-wide elementary reading curricula; eligible tutoring partner; outcomes-based contracting | Michigan MDE | run 2 |
+| 2026-11-19 | classroom resource materials that complement School Readiness curriculum | ELC Manatee (FL) | run 2 |
+| 2026-11-19 | Contracted Educational Services; Comprehensive School Intervention and Improvement Services; Professional Consultant Services | Hempstead ISD; Albany CSD; Region One ESC | run 2 |
+| 2026-11-19 | Expanded Learning Program Providers; After School Core Program Providers Cycle B; ELOP Academic Summer Scholars Program | CA ELO-P districts | run 2 |
+| 2026-11-19 | Small Contractor Services; Freelance Content Contributor; Dyad Specialty Offerings | Houston ISD | run 2 |
+| 2026-11-19 | Out of Time Enrichment, Related Items and Services | Fort Bend ISD | run 2 |
+| 2026-11-19 | Title 1 Academic Services; Student Enrichment Services, Expanded Learning Services and Teacher Professional Development | Newark BOE | run 2 |
+| 2026-11-19 | Multiple Task Award Contract (MTAC): Literacy PD and Coaching Services; PD in Academic Intervention Services; Arts Education Services | NYC DOE | run 2 |
+| 2026-11-19 | Literacy and Dyslexia Endorsement Providers (MPA); Early Literacy Tutoring Departmental Master Agreement | Rhode Island; MA DESE | run 2 |
+| 2026-11-19 | Pre-Solicitation Notice: Rolling RFP; Tier 1 OER Sources Content / Custom Built Materials | TEA | run 2 |
+| 2026-11-19 | Non-Public School Service Provider Selection; Affirmation of Consultation | Milwaukee PS | run 2 |
+| 2026-11-19 | Equitable Services for Private Schools; may result in a single source award | Polk County (FL) | run 2 |
+
+## Search-term decay notes (run 2)
+- Direct portal fetches beat search: Bonfire portals expose JSON at /PublicPortal/getOpenPublicOpportunitiesSectionData (CPS, TEA); IonWave exposes SourcingEvents.aspx?e=... ; ISBE exposes SharePoint REST lists; ESBD is server-rendered per page; COMMBUYS bidDetail opens by bidId; BidNet public keyword search opens (issuer locked).
+- Searches for Bonfire content return zero; public library family returns noise; Head Start/ELC and EL-PD families returned nothing open; nonpublic family returned nothing new (direct district notices found it instead).
+- Most productive run-2 families: screener/assessment (Ohio RFQ, MI RFS), MTSS/coaching (Hempstead, Albany), ELO-P (CA cluster), Texas ESC pools.
